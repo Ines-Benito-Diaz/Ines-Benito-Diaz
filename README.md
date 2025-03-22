@@ -1,4 +1,4 @@
-## 💫 Sobre mi
+# 💫 Sobre mi
  🌟 Soy especialista en marketing y publicidad, con experiencia en campañas tanto digitales como impresas.
  
  📊 Me apasiona el análisis de datos y la estrategia, siempre buscando formas de tomar decisiones más efectivas y mejorar el rendimiento.
