@@ -1,8 +1,8 @@
 ## 💫 Sobre mi
-### 🌟 Soy especialista en marketing y publicidad, con experiencia en campañas tanto digitales como impresas.
-### 📊 Me apasiona el análisis de datos y la estrategia, siempre buscando formas de tomar decisiones más efectivas y mejorar el rendimiento.
-### 🌍 Disfruto trabajando en equipo y entornos multiculturales. Me siento cómoda usando el inglés en mi día a día.
-### 💡 Tengo un enfoque innovador, siempre atenta a las nuevas tendencias y tecnologías.
+🌟 Soy especialista en marketing y publicidad, con experiencia en campañas tanto digitales como impresas.
+📊 Me apasiona el análisis de datos y la estrategia, siempre buscando formas de tomar decisiones más efectivas y mejorar el rendimiento.
+🌍 Disfruto trabajando en equipo y entornos multiculturales. Me siento cómoda usando el inglés en mi día a día.
+💡 Tengo un enfoque innovador, siempre atenta a las nuevas tendencias y tecnologías.
 
 <!--
 **Ines-Benito-Diaz/Ines-Benito-Diaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
