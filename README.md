@@ -1,8 +1,12 @@
 # 💫 About me
 
-🤖 Interested in AI, emerging technologies and building smarter ways of working. Exploring AI agents, automation and practical AI applications.
+🤖 AI agents & automation
 
-📊 Into data and analytics, working with Python, SQL, Power BI and BigQuery. Always learning, experimenting and finding new ways to turn data into insights.
+📊 Data analytics & engineering
+
+💻 Python, SQL & BigQuery
+
+🚀 Digital products & emerging technologies
 
 <!--
 **Ines-Benito-Diaz/Ines-Benito-Diaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
